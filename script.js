@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
             pauseOnMouseEnter: true,
         },
         direction: 'horizontal',
-        loop: false,
+        loop: true,
         pagination: {
             el: '.swiper-pagination',
         },
